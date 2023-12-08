@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Teddy</h1>
 <h3 align="center">I love to learn and work on projects in Data</h3>
 
-- 🔭 I’m currently working on [Movie Recommandation System](https://github.com/Morgan-DCL/project_2)
+- 🔭 I’m currently working on [Movie Recommandation System]([https://movie-recommandations.streamlit.app/])
 
 - 📫 How to reach me **te2dydasilva@gmail.com**
 

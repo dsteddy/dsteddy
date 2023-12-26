@@ -7,7 +7,13 @@
 
 - 🔨 Working on : [Data Jobs Platform](https://github.com/dsteddy/Projet_3) : Creating an app to help people find jobs in Data
 
-- 🎬 Previous project : [Movie Recommandation System](https://movie-recommandations.streamlit.app/)
+-  Previous projects :
+  
+-  🎬 [Movie Recommandation System](https://movie-recommandations.streamlit.app/) : [Project Link](https://github.com/dsteddy/WCS_Project2-Movie_recommandation)
+
+-  ❄️ [Advent Calendar](https://github.com/dsteddy/Calendrier-de-l-avent)
+
+  <br>          
 
 - 📫 How to reach me **te2dydasilva@gmail.com**
 

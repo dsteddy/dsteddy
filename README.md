@@ -3,7 +3,7 @@
 <h3 align="center">After working for 10 years as a receptionnist in hotels, I'm now exploring and learning the world of data.</h3>
 <h3 align="center">I love to analyze and find ways to optimize what I do and to use my curiosity to learn new things everyday.</h3>
 
-
+<br>
 
 - 🔨 Working on : [Data Jobs Platform](https://github.com/dsteddy/Projet_3) : Creating an app to help people find jobs in Data
 

@@ -2,12 +2,11 @@
 
 <h3 align="center">After working for 10 years as a receptionnist in hotels, I'm now exploring and learning the world of data.</h3>
 <h3 align="center">I love to analyze and find ways to optimize what I do and to use my curiosity to learn new things everyday.</h3>
-<h3 align="center">I'm looking for an apprenticeship as Data Engineer starting on February 2024</h3>
 <br>
 
-- 🔨 Working on : [Data Jobs Platform](https://github.com/dsteddy/Projet_3) : Creating an app to help people find jobs in Data
-
 -  Previous projects :
+
+- 🔨 [Data Jobs Platform](https://github.com/dsteddy/Projet_3)
   
 -  🎬 [Movie Recommandation System](https://movie-recommandations.streamlit.app/) : [Project Link](https://github.com/dsteddy/WCS_Project2-Movie_recommandation)
 
